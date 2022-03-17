@@ -50,6 +50,7 @@ apt update && apt install webmin -y
 
 
 # Setup IONCUBE
+# File inside repo no need to download
 cd ~
 wget http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz 
 tar xvfz ioncube_loaders_lin_x86-64.tar.gz 
